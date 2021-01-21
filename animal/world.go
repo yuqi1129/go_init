@@ -9,3 +9,7 @@ func Say() {
 func Do() {
 	fmt.Printf("Well done...")
 }
+
+func Bark() {
+	fmt.Printf("He is bark at us")
+}
